@@ -1,3 +1,3 @@
 # TributePage
 ## My first webpage made for freeCodeCamp project.
-No JS or frameworks with a simple css animation.
+No JS or frameworks, includes a simple css animation.
